@@ -4,6 +4,9 @@ Seen=true
 [Applications][brave-browser]
 Seen=true
 
+[Applications][com.uploadedlobster.peek]
+Seen=true
+
 [Applications][electron]
 Seen=true
 

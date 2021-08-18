@@ -40,4 +40,4 @@ SlidePaths=/usr/share/wallpapers
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/OpenRC.pdf,0,desktop:/plasma-home.desktop,0,desktop:/org.kde.konversation.desktop,0,desktop:/README.txt,0,desktop:/Configuration.pdf,0,desktop:/plasma-trash.desktop,0,desktop:/Troubleshooting.pdf,0,desktop:/calamares.desktop,0
+screenMapping=desktop:/calamares.desktop,0,desktop:/OpenRC.pdf,0,desktop:/Troubleshooting.pdf,0,desktop:/plasma-trash.desktop,0,desktop:/plasma-home.desktop,0,desktop:/org.kde.konversation.desktop,0,desktop:/README.txt,0,desktop:/Configuration.pdf,0

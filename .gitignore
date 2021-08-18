@@ -3,6 +3,7 @@
 .cache
 .cargo
 .config/BraveSoftware
+.config/BetterDiscord Installer
 .config/Electron
 .config/FreeTube
 .config/GitHub Desktop
