@@ -1,0 +1,24 @@
+[General]
+SplitterSizes=240,348
+
+[KFileDialog Settings]
+Recent Files[$e]=pycharm.svg,file:$HOME/.config/extra/spotify-client.svg,file:$HOME/.config/extra/pycharm.svg
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/.config/extra/,file:$HOME/.config/,file:$HOME/,file:///usr/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAloAAAGCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 Height 1503x845=496
+eDP1 Height 1571x884=533
+eDP1 Height 1708x960=430
+eDP1 Width 1503x845=1002
+eDP1 Width 1571x884=850
+eDP1 Width 1708x960=602
+eDP1 XPosition 1503x845=79
+eDP1 XPosition 1571x884=247
+eDP1 XPosition 1708x960=972
+eDP1 YPosition 1503x845=193
+eDP1 YPosition 1571x884=85
+eDP1 YPosition 1708x960=321

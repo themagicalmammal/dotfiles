@@ -1,0 +1,67 @@
+[ConfigDialog]
+eDP1 Height 1571x884=300
+eDP1 Width 1571x884=420
+
+[FileDialogSize]
+eDP1 Height 1366x768=662
+eDP1 Width 1366x768=1028
+
+[KFileDialog Settings]
+Recent Files[$e]=login.sh,file:///usr/share/wallpapers/Pictures/profile.jpg,file:$HOME/Downloads/28c55499f5401efd54ff75339bc63331.jpg,file:$HOME/Downloads/9fcbbf5c81df215ce99bb8a7e6bae7c1.png,file:$HOME/Pictures/1.png,file:///usr/share/wallpapers/Pictures/wallpaper.jpg,file:$HOME/.config/startup.sh
+Recent URLs[$e]=file:///usr/share/wallpapers/,file:///usr/share/applications/,file:///usr/share/,file:///etc/,file:$HOME/Pictures/,file:$HOME/Documents/,file:///usr/share/wallpapers/Pictures/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Videos/,file:$HOME/Music/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP1 Height 1708x960=472
+eDP1 Width 1708x960=461
+
+[Main]
+ActiveView=icon_mode
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAALSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1366x768=704
+eDP-1 Width 1366x768=681
+eDP-1 Window-Maximized 1366x768=true
+eDP1 Height 1366x768=617
+eDP1 Height 1503x845=704
+eDP1 Height 1544x868=700
+eDP1 Height 1571x884=760
+eDP1 Height 1640x922=751
+eDP1 Height 1708x960=770
+eDP1 Height 2049x1152=770
+eDP1 Height 800x600=491
+eDP1 Width 1366x768=1122
+eDP1 Width 1503x845=1020
+eDP1 Width 1544x868=1020
+eDP1 Width 1571x884=1020
+eDP1 Width 1640x922=1122
+eDP1 Width 1708x960=1122
+eDP1 Width 2049x1152=1122
+eDP1 Width 800x600=720
+eDP1 Window-Maximized 1280x720=true
+eDP1 XPosition 1366x768=130
+eDP1 XPosition 1503x845=468
+eDP1 XPosition 1544x868=249
+eDP1 XPosition 1571x884=219
+eDP1 XPosition 1640x922=283
+eDP1 XPosition 1708x960=272
+eDP1 XPosition 2049x1152=926
+eDP1 XPosition 800x600=1
+eDP1 YPosition 1366x768=82
+eDP1 YPosition 1503x845=53
+eDP1 YPosition 1544x868=100
+eDP1 YPosition 1571x884=76
+eDP1 YPosition 1640x922=92
+eDP1 YPosition 1708x960=64
+eDP1 YPosition 2049x1152=347
+eDP1 YPosition 800x600=74
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+
+[Open-with settings]
+CompletionMode=1
+History=latt,fla

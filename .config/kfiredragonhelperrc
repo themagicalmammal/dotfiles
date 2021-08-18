@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP1 Height 1708x960=447
+eDP1 Width 1708x960=635
+
+[KFileDialog Settings]
+Recent Files[$e]=wallpaper.jpg,file:$HOME/.src/dotfiles.png,file:///usr/share/wallpapers/Pictures/wallpaper.jpg
+Recent URLs[$e]=file:///usr/share/wallpapers/,file:///usr/share/wallpapers/Pictures/,file:$HOME/Downloads/,file:$HOME/Videos/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/,file:$HOME/Desktop/,file:$HOME/Music/,file:$HOME/.src/
+detailViewIconSize=16
