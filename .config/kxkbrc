@@ -1,0 +1,12 @@
+[$Version]
+update_info=kxkb_variants.upd:split-variants
+
+[Layout]
+DisplayNames=
+LayoutList=us
+LayoutLoopCount=-1
+Model=hpzt11xx
+ResetOldOptions=false
+SwitchMode=Global
+Use=true
+VariantList=

@@ -1,0 +1,12 @@
+[Cleaning]
+ClearAllCookies=true
+ClearAllCookiesPolicies=true
+ClearFavIcons=true
+ClearFormCompletion=true
+ClearQuickStartMenu=true
+ClearRecentDocuments=true
+ClearRunCommandHistory=true
+ClearSavedClipboardContents=true
+ClearThumbnails=true
+ClearWebCache=true
+ClearWebHistory=true

@@ -1,0 +1,6 @@
+{
+	"theme": "auto",
+	"color_scheme": "Packages/Dracula Color Scheme~/Dracula.tmTheme",
+	"dark_theme": "Default.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
+}

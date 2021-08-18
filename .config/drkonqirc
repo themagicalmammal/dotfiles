@@ -1,0 +1,14 @@
+[General]
+eDP1 Height 1364x767=392
+eDP1 Height 1366x768=415
+eDP1 Height 1503x845=378
+eDP1 Height 1571x884=442
+eDP1 Height 1708x960=390
+eDP1 Width 1364x767=696
+eDP1 Width 1366x768=737
+eDP1 Width 1503x845=672
+eDP1 Width 1571x884=785
+eDP1 Width 1708x960=693
+
+[SystemInformation]
+CompiledSources=false

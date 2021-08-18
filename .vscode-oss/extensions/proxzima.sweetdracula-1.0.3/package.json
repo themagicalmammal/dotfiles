@@ -1,0 +1,52 @@
+{
+	"name": "sweetdracula",
+	"displayName": "Sweet Dracula",
+	"description": "Sweet Dracula — A beautiful, darker - Dracula fork",
+	"publisher": "PROxZIMA",
+	"theme": "syntax",
+	"version": "1.0.3",
+	"license": "MIT",
+	"maintainers": [
+		"Pratik Pingale <pratikbpingale@gmail.com>"
+	],
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PROxZIMA/sweet-dracula.git"
+	},
+	"bugs": {
+		"url": "https://github.com/PROxZIMA/sweet-dracula/issues"
+	},
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"keywords": [
+		"dracula",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"categories": [
+		"Themes"
+	],
+	"icon": "sweetdracula.png",
+	"galleryBanner": {
+		"color": "#0c0e14",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sweet Dracula",
+				"uiTheme": "vs-dark",
+				"path": "theme/sweetdracula-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c499a94d-a1f3-4d95-8284-985e07034bea",
+		"publisherId": "cde0217a-c0e2-4c2a-bc5b-60f0b2920337",
+		"publisherDisplayName": null,
+		"installedTimestamp": 1629277885764
+	}
+}

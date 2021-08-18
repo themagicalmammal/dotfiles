@@ -1,0 +1,153 @@
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=wallpaper.jpg,file:$HOME/Downloads/wp7260419-demon-slayer-shinobu-wallpapers.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/
+detailViewIconSize=16
+
+[Notification Messages]
+ConfirmEmptyTrash=true
+klipperClearHistoryAskAgain=false
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelOpacity=2
+panelVisibility=0
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=1349
+minLength=70
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal1024]
+thickness=28
+
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1366]
+minLength=70
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal1440]
+thickness=34
+
+[PlasmaViews][Panel 2][Horizontal1503]
+maxLength=1349
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal1571]
+maxLength=1211
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal1640]
+thickness=40
+
+[PlasmaViews][Panel 2][Horizontal1680]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1708]
+thickness=34
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal3840]
+thickness=40
+
+[PlasmaViews][Panel 2][Horizontal800]
+thickness=34
+
+[PlasmaViews][Panel 2][Vertical1024]
+thickness=30
+
+[PlasmaViews][Panel 2][Vertical1050]
+thickness=32
+
+[PlasmaViews][Panel 2][Vertical1080]
+thickness=34
+
+[PlasmaViews][Panel 2][Vertical2160]
+thickness=36
+
+[PlasmaViews][Panel 2][Vertical768]
+thickness=28
+
+[PlasmaViews][Panel 2][Vertical800]
+thickness=28
+
+[PlasmaViews][Panel 2][Vertical864]
+thickness=30
+
+[PlasmaViews][Panel 2][Vertical900]
+thickness=30
+
+[PlasmaViews][Panel 35]
+panelOpacity=2
+
+[PlasmaViews][Panel 35][Defaults]
+thickness=20
+
+[PlasmaViews][Panel 35][Horizontal1366]
+thickness=20
+
+[PlasmaViews][Panel 35][Horizontal1503]
+thickness=20
+
+[PlasmaViews][Panel 35][Horizontal1571]
+thickness=20
+
+[PlasmaViews][Panel 35][Horizontal1640]
+thickness=20
+
+[PlasmaViews][Panel 35][Horizontal1708]
+thickness=20
+
+[PlasmaViews][Panel 35][Horizontal800]
+thickness=20
+
+[PlasmaViews][Panel 71][Defaults]
+maxLength=1195
+minLength=1195
+offset=0
+thickness=19
+
+[PlasmaViews][Panel 71][Horizontal1503]
+maxLength=1195
+minLength=1195
+thickness=19
+
+[PlasmaViews][Panel 90][Defaults]
+thickness=34
+
+[PlasmaViews][Panel 90][Horizontal1503]
+thickness=34
+
+[PlasmaViews][Panel 91][Defaults]
+maxLength=1195
+minLength=1195
+offset=0
+thickness=19
+
+[PlasmaViews][Panel 91][Horizontal1708]
+maxLength=1195
+minLength=1195
+thickness=19
+
+[PlasmaViews][Panel 92][Defaults]
+maxLength=1366
+minLength=1366
+offset=0
+thickness=22
+
+[PlasmaViews][Panel 92][Horizontal1708]
+maxLength=1366
+minLength=1366
+thickness=22
+
+[ScreenConnectors]
+0=eDP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

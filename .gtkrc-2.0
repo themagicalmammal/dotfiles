@@ -1,0 +1,11 @@
+gtk-theme-name="Sweet-Dark"
+gtk-enable-animations=1
+gtk-primary-button-warps-slider=0
+gtk-toolbar-style=3
+gtk-menu-images=1
+gtk-button-images=1
+gtk-cursor-theme-size=24
+gtk-cursor-theme-name="Layan-white-cursors"
+gtk-icon-theme-name="Citrus-purple"
+gtk-font-name="Linotte-SemiBold,  10"
+gtk-modules=appmenu-gtk-modulefont-name="Roboto,  11":appmenu-gtk-module

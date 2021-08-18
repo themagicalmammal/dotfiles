@@ -1,0 +1,10 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description[$d]
+desktop[$d]
+desktoprule[$d]
+wmclass[$d]
+wmclasscomplete[$d]
+wmclassmatch[$d]

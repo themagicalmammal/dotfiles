@@ -1,0 +1,35 @@
+[General]
+ActivityAware=false
+HistoryEnabled=false
+RetainPriorSearch=false
+history=
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+CharacterRunnerEnabled=false
+DictionaryEnabled=false
+Kill RunnerEnabled=false
+PowerDevilEnabled=false
+Spell CheckerEnabled=false
+appstreamEnabled=false
+baloosearchEnabled=false
+bookmarksEnabled=false
+calculatorEnabled=false
+desktopsessionsEnabled=false
+katesessionsEnabled=false
+konsoleprofilesEnabled=false
+kwinEnabled=false
+locationsEnabled=false
+org.kde.activities2Enabled=false
+org.kde.datetimeEnabled=false
+org.kde.windowedwidgetsEnabled=false
+placesEnabled=true
+plasma-desktopEnabled=false
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=true
+webshortcutsEnabled=false
+windowsEnabled=false

@@ -1,0 +1,18 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/http=brave-browser.desktop;firedragon.desktop;
+x-scheme-handler/https=brave-browser.desktop;firedragon.desktop;
+x-scheme-handler/tg=userapp-Kotatogram Desktop-W0NL60.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+text/html=brave-browser.desktop
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+x-scheme-handler/freetube=freetube.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+x-scheme-handler/http=brave-browser.desktop;
+x-scheme-handler/https=brave-browser.desktop;
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/tg=userapp-Kotatogram Desktop-W0NL60.desktop
+x-scheme-handler/x-github-client=github-desktop.desktop
+x-scheme-handler/x-github-desktop-auth=github-desktop.desktop
