@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="60%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/logo.png"/>
+  <img width="60%" src="/.src/logo.png"/>
   <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 </p>
 
 ### :wave: Hey there! Glad you came! <img alt="" align="right" src="https://badges.pufler.dev/visits/themagicalmammal/dotfiles?style=flat-square&label=&color=6cfec0&logo=GitHub&logoColor=white&labelColor=373e4d"/>
-<img src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/1.png" align="right" width="400px"/>
+<img src="/.src/1.png" align="right" width="400px"/>
 
 This is my personal configuration of my **KDE** setup. 
 
@@ -15,7 +15,7 @@ a bit boring. Then I jumped to XFCE with picom,<br/>
 plank and other config's and even went deeper with<br/>
 openbox, bspwm, sway, dwm, i3,… But, all this time<br/>
 was I was really craving was features of a complete<br/>
-<img src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/2.png" align="right" width="400px"/>
+<img src="/.src/2.png" align="right" width="400px"/>
 desktop like better integration, not having to merge<br/>
 elements from one setup to another and when I went<br/>
 to KDE my Desktop/WM hopping stopped and was finally<br/>
@@ -26,10 +26,10 @@ and this is what I have now.
 
 ## 
 <p align="center">
-  <img width="25%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/Details.png"/>
+  <img width="25%" src="/.src/Details.png"/>
   <h3 align="center"> ━━━━━━  ❖  ━━━━━━ </h3>
 </p>
-<img src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/6.png" align="right" width="400px"/>
+<img src="/.src/6.png" align="right" width="400px"/>
 
 - **Linux** • [Artix](https://artixlinux.org/) 💻
 - **GUI** • [KDE](https://kde.org/) 🖼️
@@ -39,7 +39,7 @@ and this is what I have now.
 - **Notepad** • [Kate](https://kate-editor.org/) 📝, [Sublime](https://www.sublimetext.com/) 📑
 - **Editor** • [VsCodium](https://vscodium.com/) 📰
 - **Social** • [Kotatogram](https://kotatogram.github.io/) 💬, [Discord](https://discord.com/) with [BetterDiscord](https://betterdiscord.app/) 🖌️
-<img src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/11.png" align="left" width="400px"/>
+<img src="/.src/11.png" align="left" width="400px"/>
 
      • **Shell** • [Zsh](https://www.zsh.org/) 🐚 with [Starship](https://starship.rs/config/) 💫 <br/>
      • **Global Theme** • [Sweet](https://store.kde.org/p/1294729/) 🍬<br/>
@@ -53,18 +53,18 @@ and this is what I have now.
      • **Latte-Dock** • [Magical](https://store.kde.org/p/1575666) 🎩<br/>
 ##
 <p align="center">
-  <img width="25%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/Gallery.png"/>
+  <img width="25%" src="/.src/Gallery.png"/>
   <h3 align="center"> ━━━━━━  ❖  ━━━━━━ </h3>
 </p>
 
 ##
 <p align="center">
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/Discord.gif"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/3.png"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/4.png"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/5.png"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/7.png"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/8.png"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/9.png"/>
-  <img width="40%" src="https://github.com/themagicalmammal/dotfiles/blob/kde/.src/10.png"/>
+  <img width="40%" src="/.src/Discord.gif"/>
+  <img width="40%" src="/.src/3.png"/>
+  <img width="40%" src="/.src/4.png"/>
+  <img width="40%" src="/.src/5.png"/>
+  <img width="40%" src="/.src/7.png"/>
+  <img width="40%" src="/.src/8.png"/>
+  <img width="40%" src="/.src/9.png"/>
+  <img width="40%" src="/.src/10.png"/>
 </p>
